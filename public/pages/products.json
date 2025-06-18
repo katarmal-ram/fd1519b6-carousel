@@ -1,0 +1,141 @@
+
+{
+  "meta": {
+    "title": "Brass Products - Khodiyar Brass Industries",
+    "description": "Comprehensive range of precision brass components including fittings, valves, and electrical components"
+  },
+  "hero": {
+    "type": "image",
+    "enabled": true,
+    "title": "Our Product Range",
+    "subtitle": "Precision-engineered brass components for diverse applications",
+    "backgroundImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=2000&q=80"
+  },
+  "sections": {
+    "products": {
+      "type": "products",
+      "enabled": true,
+      "title": "Product Categories",
+      "subtitle": "Explore our comprehensive range of precision brass components",
+      "items": []
+    },
+    "cta": {
+      "type": "cta",
+      "enabled": true,
+      "title": "Need a Custom Quote?",
+      "subtitle": "Contact us for personalized pricing and technical specifications for your specific requirements.",
+      "primaryCTA": {
+        "text": "Request Custom Quote",
+        "action": "/contact"
+      },
+      "secondaryCTA": {
+        "text": "Technical Support",
+        "action": "tel:+91-281-567-8900"
+      }
+    }
+  },
+  "products": {
+    "allProductsTitle": "Our Product Range",
+    "allProductsSubtitle": "Comprehensive collection of precision-engineered brass components",
+    "categoriesTitle": "Browse Product Categories",
+    "categoriesSubtitle": "Explore our specialized product categories designed for various industrial applications",
+    "categories": [
+      {
+        "id": "brass-fittings",
+        "name": "Brass Fittings",
+        "description": "High-quality brass fittings for plumbing and industrial applications",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
+        "products": [
+          {
+            "id": "brass-elbow",
+            "name": "Brass Elbow Fittings",
+            "description": "Precision-manufactured brass elbow fittings for pipe connections",
+            "specifications": ["Size: 1/4\" to 4\"", "Material: CZ121 Brass", "Threading: BSP/NPT"],
+            "applications": ["Plumbing", "Water Systems", "Gas Distribution"],
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=400&q=80"
+          },
+          {
+            "id": "brass-tee",
+            "name": "Brass Tee Fittings",
+            "description": "Durable brass tee fittings for branching pipe connections",
+            "specifications": ["Size: 1/4\" to 3\"", "Material: CZ121 Brass", "Pressure: Up to 16 bar"],
+            "applications": ["Pipe Networks", "Water Systems", "Industrial HVAC"],
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=400&q=80"
+          }
+        ]
+      },
+      {
+        "id": "brass-valves",
+        "name": "Brass Valves",
+        "description": "Reliable brass valves for flow control applications",
+        "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80",
+        "products": [
+          {
+            "id": "brass-ball",
+            "name": "Brass Ball Valves",
+            "description": "High-performance brass ball valves for precise flow control",
+            "specifications": ["Size: 1/2\" to 4\"", "Material: CW617N Brass", "Working Pressure: 40 bar"],
+            "applications": ["Water Systems", "Gas Lines", "Industrial Processes"],
+            "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=400&q=80"
+          },
+          {
+            "id": "brass-gate",
+            "name": "Brass Gate Valves",
+            "description": "Robust brass gate valves for on/off control applications",
+            "specifications": ["Size: 1/2\" to 6\"", "Material: CC754S Brass", "Temperature: -20°C to 180°C"],
+            "applications": ["Water Distribution", "Steam Lines", "Chemical Processing"],
+            "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=400&q=80"
+          }
+        ]
+      },
+      {
+        "id": "brass-components",
+        "name": "Brass Components",
+        "description": "Specialized brass components for various industrial needs",
+        "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=600&q=80",
+        "products": [
+          {
+            "id": "brass-flanges",
+            "name": "Brass Flanges",
+            "description": "Precision brass flanges for secure pipe connections",
+            "specifications": ["Size: 1/2\" to 12\"", "Standards: ANSI, DIN, JIS", "Material: Various Brass Alloys"],
+            "applications": ["Pipe Connections", "Pressure Vessels", "Marine Applications"],
+            "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=400&q=80"
+          },
+          {
+            "id": "brass-bushings",
+            "name": "Brass Bushings",
+            "description": "High-precision brass bushings for mechanical applications",
+            "specifications": ["Inner Dia: 5mm to 200mm", "Material: CuZn39Pb3", "Tolerance: ±0.02mm"],
+            "applications": ["Bearing Applications", "Hydraulic Systems", "Automotive"],
+            "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=400&q=80"
+          }
+        ]
+      },
+      {
+        "id": "electrical-components",
+        "name": "Electrical Components",
+        "description": "Precision brass components for electrical applications",
+        "image": "https://images.unsplash.com/photo-1483058712412-4245e9b90334?auto=format&fit=crop&w=600&q=80",
+        "products": [
+          {
+            "id": "brass-terminals",
+            "name": "Brass Terminals",
+            "description": "High-conductivity brass terminals for electrical connections",
+            "specifications": ["Current Rating: 10A to 250A", "Material: CuZn37", "Finish: Nickel Plated"],
+            "applications": ["Control Panels", "Switchgear", "Transformers"],
+            "image": "https://images.unsplash.com/photo-1483058712412-4245e9b90334?auto=format&fit=crop&w=400&q=80"
+          },
+          {
+            "id": "cable-glands",
+            "name": "Brass Cable Glands",
+            "description": "Durable brass cable glands for secure cable entry",
+            "specifications": ["Thread: M12 to M63", "Material: CW617N Brass", "IP Rating: IP68"],
+            "applications": ["Industrial Equipment", "Marine Electronics", "Outdoor Installations"],
+            "image": "https://images.unsplash.com/photo-1483058712412-4245e9b90334?auto=format&fit=crop&w=400&q=80"
+          }
+        ]
+      }
+    ]
+  }
+}

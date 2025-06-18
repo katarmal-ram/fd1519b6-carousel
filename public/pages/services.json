@@ -1,0 +1,161 @@
+
+{
+  "meta": {
+    "title": "Manufacturing Services - Khodiyar Brass Industries",
+    "description": "Comprehensive brass manufacturing services with precision CNC machining, casting, and quality assurance"
+  },
+  "hero": {
+    "type": "video",
+    "enabled": true,
+    "title": "Premium Manufacturing Services",
+    "subtitle": "Delivering excellence in brass component manufacturing with cutting-edge technology",
+    "backgroundVideo": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/NL0L5N5Rgimkt8edi/videoblocks-authomatic-lathe-drill-the-thread-and-rounds-the-edges-of-the-part_seemoxrjtx__456bda19ebbb32c7b3b6e1208019deab__P1080.mp4?response-content-disposition=attachment%3Bfilename%3Dauthomatic-lathe-drill-the-thread-and-rounds-the-edges-of-the-part-SBV-327456926-preview.mp4",
+    "backgroundImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=2000&q=80"
+  },
+  "sections": {
+    "services": {
+      "type": "services",
+      "enabled": true,
+      "title": "Our Manufacturing Services",
+      "subtitle": "Comprehensive solutions from design to delivery",
+      "items": [
+        {
+          "id": "precision-machining",
+          "title": "Precision CNC Machining",
+          "description": "State-of-the-art CNC machining services for complex brass components with exceptional precision and quality.",
+          "capabilities": [
+            "Multi-axis CNC turning",
+            "High-precision milling",
+            "Thread cutting & tapping",
+            "Surface finishing",
+            "Tolerance ±0.001mm",
+            "24/7 production capability"
+          ],
+          "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+          "id": "brass-casting",
+          "title": "Brass Casting",
+          "description": "Expert brass casting services using advanced techniques for superior component quality and dimensional accuracy.",
+          "capabilities": [
+            "Sand casting",
+            "Investment casting",
+            "Die casting",
+            "Gravity casting",
+            "Custom alloy development",
+            "Pattern making & design"
+          ],
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+          "id": "quality-assurance",
+          "title": "Quality Assurance & Testing",
+          "description": "Comprehensive quality control and testing services ensuring every component meets the highest standards.",
+          "capabilities": [
+            "Dimensional inspection",
+            "Material testing",
+            "Pressure testing",
+            "Chemical analysis",
+            "ISO 9001:2015 certified",
+            "Spectral composition analysis"
+          ],
+          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+          "id": "design-development",
+          "title": "Design & Development",
+          "description": "Complete design and development services from concept to production with advanced engineering solutions.",
+          "capabilities": [
+            "CAD/CAM design",
+            "Rapid prototyping",
+            "Stress analysis",
+            "Material selection",
+            "Process optimization",
+            "Reverse engineering"
+          ],
+          "image": "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+          "id": "surface-treatment",
+          "title": "Surface Treatment & Finishing",
+          "description": "Professional surface treatment and finishing services to enhance durability and aesthetic appeal.",
+          "capabilities": [
+            "Electroplating",
+            "Powder coating",
+            "Anodizing",
+            "Polishing & buffing",
+            "Nickel plating",
+            "Chrome plating"
+          ],
+          "image": "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+          "id": "assembly-packaging",
+          "title": "Assembly & Packaging",
+          "description": "Complete assembly and packaging services with careful handling and professional presentation.",
+          "capabilities": [
+            "Sub-assembly services",
+            "Component assembly",
+            "Custom packaging",
+            "Protective packaging",
+            "Labeling & marking",
+            "Logistics support"
+          ],
+          "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=800&q=80"
+        }
+      ]
+    },
+    "capabilities": {
+      "type": "capabilities",
+      "enabled": true,
+      "title": "Manufacturing Capabilities",
+      "subtitle": "Advanced technology and expertise for superior results",
+      "items": [
+        {
+          "id": "production-capacity",
+          "title": "Production Capacity",
+          "description": "High-volume production capabilities with flexible scheduling",
+          "metrics": [
+            { "label": "Monthly Capacity", "value": "500,000 units" },
+            { "label": "Operating Hours", "value": "24/7 operation" },
+            { "label": "Lead Time", "value": "2-4 weeks" }
+          ]
+        },
+        {
+          "id": "material-expertise",
+          "title": "Material Expertise",
+          "description": "Comprehensive knowledge of brass alloys and their applications",
+          "metrics": [
+            { "label": "Alloy Types", "value": "50+ grades" },
+            { "label": "Material Testing", "value": "Full certification" },
+            { "label": "Custom Alloys", "value": "Available" }
+          ]
+        },
+        {
+          "id": "precision-standards",
+          "title": "Precision Standards",
+          "description": "Meeting the highest precision standards in the industry",
+          "metrics": [
+            { "label": "Tolerance", "value": "±0.001mm" },
+            { "label": "Surface Finish", "value": "Ra 0.1μm" },
+            { "label": "Quality Rate", "value": "99.8%" }
+          ]
+        }
+      ]
+    },
+    "cta": {
+      "type": "cta",
+      "enabled": true,
+      "title": "Ready to Start Your Project?",
+      "subtitle": "Let our experienced team help you bring your component requirements to life with precision and excellence.",
+      "primaryCTA": {
+        "text": "Consult Our Experts",
+        "action": "/contact"
+      },
+      "secondaryCTA": {
+        "text": "Schedule Consultation",
+        "action": "tel:+91-281-567-8900"
+      }
+    }
+  }
+}

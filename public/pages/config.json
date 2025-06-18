@@ -1,0 +1,74 @@
+
+{
+  "site": {
+    "name": "Khodiyar Brass Industries",
+    "tagline": "Precision Engineering Excellence",
+    "favicon": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?auto=format&fit=crop&w=32&q=80"
+  },
+  "company": {
+    "name": "Khodiyar Brass Industries",
+    "tagline": "Precision Engineering Excellence",
+    "logo": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?auto=format&fit=crop&w=100&q=80",
+    "description": "Leading manufacturer of precision brass components with over three decades of excellence in engineering and manufacturing."
+  },
+  "contact": {
+    "address": "123 Industrial Estate, Rajkot City, Gujarat 360004",
+    "phone": "+91-281-567-8900",
+    "email": "info@khodiyarbrass.com",
+    "timing": [
+      {
+        "label": "Mon - Fri",
+        "hours": "9:00 AM - 6:00 PM"
+      },
+      {
+        "label": "Saturday",
+        "hours": "9:00 AM - 2:00 PM"
+      }
+    ]
+  },
+  "header": {
+    "navigation": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Us", "href": "/about" },
+      { "label": "Services", "href": "/services" },
+      { "label": "Products", "href": "/products" },
+      { "label": "Contact", "href": "/contact" }
+    ]
+  },
+  "footer": {
+    "navigation": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Us", "href": "/about" },
+      { "label": "Services", "href": "/services" },
+      { "label": "Products", "href": "/products" },
+      { "label": "Contact", "href": "/contact" }
+    ],
+    "social": [
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/khodiyarbrass",
+        "icon": "facebook"
+      },
+      {
+        "platform": "linkedin",
+        "url": "https://linkedin.com/company/khodiyarbrass",
+        "icon": "linkedin"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/khodiyarbrass",
+        "icon": "twitter"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://instagram.com/khodiyarbrass",
+        "icon": "instagram"
+      }
+    ],
+    "branding": {
+      "text": "Made with ❤️ by",
+      "company": "Ferralabs",
+      "url": "https://ferralabs.in"
+    }
+  }
+}

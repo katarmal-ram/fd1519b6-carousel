@@ -1,0 +1,86 @@
+
+{
+  "meta": {
+    "title": "Contact Us - Khodiyar Brass Industries",
+    "description": "Get in touch with Khodiyar Brass Industries for your precision brass component needs"
+  },
+  "hero": {
+    "type": "image",
+    "enabled": true,
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our expert team",
+    "description": "Ready to discuss your brass component requirements? We're here to help.",
+    "backgroundImage": "https://images.unsplash.com/photo-1423666639041-f56000c27a9a?auto=format&fit=crop&w=2000&q=80"
+  },
+  "sections": {
+    "contactInfo": {
+      "type": "contact-info",
+      "enabled": true,
+      "title": "Contact Information",
+      "subtitle": "Multiple ways to reach us",
+      "items": [
+        {
+          "type": "address",
+          "title": "Our Location",
+          "content": "Plot No. 42, Industrial Estate, Rajkot - 360004, Gujarat, India",
+          "icon": "map-pin"
+        },
+        {
+          "type": "phone",
+          "title": "Phone",
+          "content": "+91 281 567 8900",
+          "icon": "phone"
+        },
+        {
+          "type": "email",
+          "title": "Email",
+          "content": "info@khodiyarbrass.com",
+          "icon": "mail"
+        }
+      ]
+    },
+    "contactForm": {
+      "type": "contact-form",
+      "enabled": true,
+      "title": "Send us a Message",
+      "subtitle": "Fill out the form and we'll get back to you",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Full Name",
+          "type": "text",
+          "required": true,
+          "placeholder": "Enter your full name"
+        },
+        {
+          "name": "email",
+          "label": "Email Address",
+          "type": "email",
+          "required": true,
+          "placeholder": "Enter your email address"
+        },
+        {
+          "name": "phone",
+          "label": "Phone Number",
+          "type": "tel",
+          "required": false,
+          "placeholder": "Enter your phone number"
+        },
+        {
+          "name": "subject",
+          "label": "Subject",
+          "type": "text",
+          "required": true,
+          "placeholder": "Enter subject"
+        },
+        {
+          "name": "message",
+          "label": "Message",
+          "type": "textarea",
+          "required": true,
+          "placeholder": "Enter your message"
+        }
+      ]
+    }
+  }
+}
